@@ -25,3 +25,9 @@ body {
   -o-background-size: contain;
   background-size: contain;
 }
+
+.hands {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
