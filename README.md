@@ -2,6 +2,8 @@
 
 An analogue clock using HTML/CSS & JS.
 
+![js-anaologue-clock](https://user-images.githubusercontent.com/24542308/53295436-93843e00-384f-11e9-82e7-91a01618bdcf.png)
+
 ## What was learned:
 
 * Use the constructor function `Date()`.
