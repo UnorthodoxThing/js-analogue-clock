@@ -6,7 +6,7 @@ An analogue clock using HTML/CSS & JS.
 
 ## What was learned:
 
-* Use the constructor function `Date()`.
+* Use the constructor function `Date()`, and its prototypes `.getSeconds()`, `.getMinutes`, `.getHours`.
 * Use basic geometry for angles mixed with clock functions.
 * Use asynchronous method to see clock moving.
 * Use and create images that will align in one div container.
